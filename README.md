@@ -161,9 +161,11 @@ Status
 # Contact
 
 Feel free to connect with me.
+
 Personal Website - https://ashwincheripally.com/
-GitHub: https://github.com/YOUR_USERNAME
+
 LinkedIn  -https://www.linkedin.com/in/ashwin-cheripally-054214206/
+
 LinkedIn Company Page- https://www.linkedin.com/company/113554217/admin/dashboard/
 
 
