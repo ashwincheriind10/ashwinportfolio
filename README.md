@@ -37,6 +37,7 @@ The adults supporting that student stay in the loop and step in when it matters,
 ### Highlights
 
 **AI & Machine Learning**
+- Student AI Agent: an autonomous, agentic assistant that guides each student end to end
 - AI-powered adaptive learning
 - AI study coach and chat (RAG + knowledge base)
 - ML-based performance prediction and recommendations
