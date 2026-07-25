@@ -16,7 +16,7 @@ Production AI systems: Retrieval-Augmented Generation (RAG), machine-learning pr
 
 **Live products:** [CheriMathLab](https://cherimathlab.com/) · [CheriMind](https://cherimind.duckdns.org/) · [CheriHire](https://cherihire.com/) 
 
-**Core stack:** RAG · LLMs (Ollama / Azure OpenAI / OpenAI) · pgvector · sentence-transformers · XGBoost · ASP.NET Core · Next.js · PostgreSQL · MySQL · Redis · Docker · SignalR · PWA
+**Core stack:** RAG ·LLMs (Ollama / Azure OpenAI / OpenAI / DeepSeek) · pgvector · sentence-transformers · XGBoost · ASP.NET Core · Next.js · PostgreSQL · MySQL · Redis · Docker · SignalR · PWA
 ---
 
 # Featured Projects
