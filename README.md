@@ -14,7 +14,7 @@ This repository showcases the platforms and projects I've built and continue to 
 
 Production AI systems: Retrieval-Augmented Generation (RAG), machine-learning prediction models, and secure multi-tenant SaaS. I ship end-to-end Next.js / React frontends, ASP.NET Core (.NET 10) & Python (FastAPI) backends, vector search, and self-hostable, security-hardened deployments.
 
-**Live products:** [CheriMathLab](https://cherimathlab.com/) · [CheriMind](https://cherimind.duckdns.org/) · [CheriHire](https://cherihire.com/) · Recycler Intelligence
+**Live products:** [CheriMathLab](https://cherimathlab.com/) · [CheriMind](https://cherimind.duckdns.org/) · [CheriHire](https://cherihire.com/) 
 
 **Core stack:** RAG · LLMs (Ollama / Azure OpenAI / OpenAI) · pgvector · sentence-transformers · XGBoost · ASP.NET Core · Next.js · PostgreSQL · MySQL · Redis · Docker · SignalR · PWA
 ---
