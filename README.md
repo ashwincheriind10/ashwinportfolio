@@ -159,7 +159,7 @@ CheriHire is an AI recruitment platform that reads every resume, flags fakes, pr
 - **Infrastructure & security:** Linux, systemd, Caddy, ClamAV upload scanning
 
 Status
-🟢 Live MVP (https://cherihire.com)
+🟢 In Development (https://cherihire.com)
 
 ---
 
