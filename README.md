@@ -1,8 +1,8 @@
 # Welcome to My Portfolio
 
-# Hi, I'm Ashwin 
+# Hi, I'm Ashwin
 
-**Ashwin Cheripally** - Grade 11 student · AI / ML Full-Stack Engineer & Founder
+**Ashwin Cheripally** – Grade 11 Student · AI Engineer · Machine Learning Engineer · Robotics Engineer · Full-Stack Developer & Founder
 
 I'm a Grade 11 student passionate about Mathematics, Physics, Robotics, Artificial Intelligence, and software development. I enjoy building innovative products that solve real-world problems and create meaningful impact. Beyond technology, I am passionate about social service, philanthropy, and using innovation to improve lives.
 
